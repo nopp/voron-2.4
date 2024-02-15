@@ -1,1 +1,1 @@
-# voron2.4 250mm
+# Voron 2.4(250mm)
